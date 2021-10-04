@@ -1,6 +1,6 @@
 {
   "name": "com.utj.editorguilayoutext",
-  "version": "0.1.",
+  "version": "0.1.1",
   "displayName": "EditorGUILayout Extention",
   "description": "This is an EditorGUILayout Extention",
   "unity": "2017.1", 
