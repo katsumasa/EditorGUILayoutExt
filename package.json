@@ -1,18 +1,17 @@
-{
-    "name": "com.utj.EditorGUILayoutExt",
-    "displayName": "EditorGUILayoutExt", 
-    "version": "0.1.0",               
-    "unity": "2017.1",
-    "description": "EditorGUILayout Extention.",
-    "author": {
-        "name": "Katsumasa.Kimura",
-        "url": "https://github.com/katsumasa"
-    },
-
-    "keywords": [
-        "EditorGUILayout",        
-    ],
-
-    "dependencies": {
-    },
+{{
+  "name": "com.utj.EditorGUILayoutExt",
+  "version": "0.1.0",
+  "displayName": "EditorGUILayout Extention",
+  "description": "This is an EditorGUILayout Extention",
+  "unity": "2017.1",  
+  "dependencies": {
+ },
+ "keywords": [
+     "EditorGUILayout"
+  ],
+  "author": {
+    "name": "Katsumasa.Kimura",
+    "email": "katsumasa@unity3d.com",
+    "url": "https://github.com/katsumasa"
+  }
 }
