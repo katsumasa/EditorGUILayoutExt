@@ -1,5 +1,10 @@
 # EditorGUILayoutExt
-EditorGUILayoutライクな拡張クラス
+
+This repository is obsoleted.
+Check the repository [here](https://github.com/katsumasa/IMGUIExtentions).
+
+~~EditorGUILayoutライクな拡張クラス~~
+
 
 ## EditorGUILayoutExt.Graph
 
